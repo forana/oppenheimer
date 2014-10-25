@@ -1,0 +1,26 @@
+{
+  "name": "oppenheimer",
+  "version": "0.0.0",
+  "description": "Now I am become death, the destroyer of REST APIs.",
+  "main": "oppenheimer.js",
+  "bin": "./oppenheimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forana/oppenheimer.git"
+  },
+  "author": "Alex Foran <alex@alexforan.com> (http://alexforan.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forana/oppenheimer/issues"
+  },
+  "homepage": "https://github.com/forana/oppenheimer",
+  "dependencies": {
+    "request": "^2.46.0",
+    "colors": "^1.0.3",
+    "lodash": "^2.4.1",
+    "q": "^1.0.1"
+  }
+}
